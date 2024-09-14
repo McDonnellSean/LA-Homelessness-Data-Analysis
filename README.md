@@ -61,3 +61,18 @@ Through these steps, attention was directed to where resources and interventions
 ## Conclusion
 
 This project effectively combines various data workflows—data preparation with SQL, visualization with Tableau, and data analysis—to provide a thorough understanding of the homelessness situation in Los Angeles. It highlights geographical hotspots, types of homelessness, and resource distribution to help decision-makers better support the homeless population.
+
+## Future Works
+
+Future efforts could focus on:
+
+- Analyzing data from previous years to perform a deeper trend analysis and understand historical patterns in homelessness.
+- Incorporating additional data sources such as economic indicators or social services information for a more comprehensive analysis.
+- Expanding visualizations to include interactive elements that allow users to explore various scenarios and predictions.
+- Enhancing predictive modeling to forecast future homelessness trends and evaluate the potential impacts of proposed interventions.
+
+## Contact
+- Sean McDonnell
+- mcdonnellcsean@gmail.com
+- linkedin/Sean McDonnell
+

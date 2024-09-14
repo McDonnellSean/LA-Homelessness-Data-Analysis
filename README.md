@@ -8,9 +8,9 @@ The analysis is divided into three core parts:
 2. [Visualization (Tableau)](#visualization-tableau)
 3. [Data Analysis (Python)](#data-analysis)
 
-[Conclusion)](#conclusion)
-[Future Works](#future-works)
-[Contact](#contact)
+- [Conclusion](#conclusion)
+- [Future Works](#future-works)
+- [Contact](#contact)
 
 ## Data Preparation (SQL)
 

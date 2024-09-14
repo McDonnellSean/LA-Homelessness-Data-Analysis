@@ -16,6 +16,8 @@ The data preparation process involved cleansing, transforming, and aggregating t
 2. Aggregating by Geographic Areas: Summarized homelessness counts by Council Districts (CD) using GROUP BY.
 3. Summing Key Metrics: Calculated totals for street, sheltered, and overall homelessness across different districts.
 
+<img width="1080" alt="Screenshot 2024-09-13 at 9 02 56 PM" src="https://github.com/user-attachments/assets/5bd5d9c8-1493-43fb-830b-5bfa9ab27b9f">
+
 The final dataset was structured to provide insights into total street homelessness, sheltered homelessness, and unsheltered homelessness across districts.
 
 ## Visualization (Tableau)
@@ -30,6 +32,8 @@ The second phase utilized Tableau to visualize key information from the SQL-prep
 - A stacked bar chart displaying the number of people in emergency shelters, transitional housing, and safe havens across districts. This visualization helps assess which districts may be underserved in terms of shelter resources.
 4. Family vs. Individual Homelessness
 - A cluster bar chart comparing individual homelessness with family homelessness across the districts. This allows policymakers to understand where family-specific interventions are most needed.
+
+<img width="1031" alt="Screenshot 2024-09-13 at 9 57 49 PM" src="https://github.com/user-attachments/assets/1b016f20-7c04-45fe-929a-f7c26d4de0c2">
 
 The visualizations not only make the data accessible but also provide a powerful way for to interact with the information.
 
@@ -50,6 +54,8 @@ Analyses conducted:
 
 - Aggregation by City:
     - Homeless counts were aggregated for areas marked as "High" hotspots by city, allowing us to see which cities within Los Angeles had the highest levels of homelessness concentration.
+
+<img width="705" alt="Screenshot 2024-09-13 at 10 00 40 PM" src="https://github.com/user-attachments/assets/89116762-70e5-4580-8575-1334b9739df3">
 
 Through these steps, attention was directed to where resources and interventions may be needed most.
 

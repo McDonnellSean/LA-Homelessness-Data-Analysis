@@ -1,6 +1,6 @@
 # Los Angeles Homelessness Analysis and Visualization 
 
-This analysis focuses on exploring and analyzing homelessness data for Los Angeles County and City. It uses a combination of SQL for data preparation, Tableau for visualization, and analytical results derived from the data. The objective is to provide a comprehensive understanding of homelessness patterns, shelter availability, and identify key hotspots across the city's council districts.
+This analysis focuses on exploring and analyzing homelessness data for Los Angeles County and City retreieved from Los Angeles Homeless Services Authority (LAHSA). It uses a combination of SQL for data preparation, Tableau for visualization, and analytical results derived from the data. The objective is to provide a comprehensive understanding of homelessness patterns, shelter availability, and identify key hotspots across the city's council districts.
 
 The analysis is divided into three core parts:
 

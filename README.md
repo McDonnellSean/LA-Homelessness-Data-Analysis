@@ -4,9 +4,9 @@ This analysis focuses on exploring and analyzing homelessness data for Los Angel
 
 The analysis is divided into three core parts:
 
-1. Data Preparation (SQL)
-2. Visualization (Tableau)
-3. Data Analysis (Python)
+1. [Data Preparation (SQL)](#data-preparation-sql)
+2. [Visualization (Tableau)](#visualization-tableau)
+3. [Data Analysis (Python)](#data-analysis)
 
 ## Data Preparation (SQL)
 
